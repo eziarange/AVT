@@ -6,7 +6,7 @@ https://www.avito.ru/avito-care/eco-impact
 ___
 Инструкция по установке:
 - Скачать и установить go версии `1.22.1`
-- Скопировать репозиторий с github командой `git clone https://github.com/eziarange/AvitoTests.git`
+- Скопировать репозиторий с github командой `git clone https://github.com/eziarange/AVT.git`
 - Перейти в папку со скачанным репозиторием
 - Выполнить команду `go mod vendor`
 - Выполнить команду `go run .`
